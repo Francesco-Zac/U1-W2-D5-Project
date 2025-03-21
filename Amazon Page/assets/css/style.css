@@ -12,9 +12,10 @@ body div {
 }
 
 body div.all a {
-  color: #105c6a;
+  color: #10466a;
   margin-left: 1vw;
   text-decoration: none;
+  font-size: 14px;
 }
 
 header {
@@ -113,7 +114,7 @@ h1 {
 }
 
 .buyMore p {
-  margin-bottom: 2vh;
+  margin-bottom: 4vh;
 }
 
 footer {
