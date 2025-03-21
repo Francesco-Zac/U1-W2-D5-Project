@@ -1,0 +1,138 @@
+/* Your styles here */
+body {
+  background-color: #e9edee;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body div {
+  margin-left: 2vh;
+  margin-right: 2vh;
+  margin-top: 50px;
+  margin-bottom: 5vh;
+  text-align: center;
+}
+
+body div.all a {
+  color: #105c6a;
+  margin-left: 1vw;
+  text-decoration: none;
+}
+
+header {
+  background-color: #222f3f;
+}
+header img {
+  max-height: 5vh;
+  padding-left: 4vh;
+  padding-bottom: 1vh;
+}
+
+header p {
+  padding-top: 0.5vw;
+  padding-bottom: 0.5vw;
+}
+
+header p a {
+  color: white;
+  text-decoration: none;
+}
+
+footer img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+.navigatore {
+  display: block;
+  background-color: #364759;
+  color: white;
+  padding-left: 4vh;
+}
+.navigatore p {
+  display: inline-block;
+  padding-right: 1vw;
+}
+
+.news {
+  color: white;
+  margin-top: 4vw;
+  background-color: #f86500;
+  padding-top: 0.3vw;
+  padding-bottom: 0.3vw;
+}
+
+.holidayGift {
+  background-image: url(../images/bg-image.png);
+  background-size: contain;
+}
+
+.holidayGift h1 {
+  color: white;
+  padding-top: 4vw;
+}
+
+.holidayGift p {
+  color: white;
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+}
+
+.Buy-present {
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+  display: block;
+  text-align: start;
+  white-space: nowrap;
+  padding-left: 1vw;
+  background-color: white;
+}
+
+.giftPhoto {
+  min-height: 37vh;
+  max-width: 17%;
+  margin-top: 1vw;
+  margin-right: 9.76%;
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.giftPhoto:last-of-type {
+  margin-right: 0px;
+}
+
+.buyMore img {
+  min-width: 100%;
+  max-height: 40vh;
+  margin-bottom: 0;
+}
+
+.buyMore p {
+  margin-bottom: 2vh;
+}
+
+footer {
+  background-color: #222f3f;
+}
+
+footer p {
+  background-color: #364759;
+  padding-top: 0.5vw;
+  padding-bottom: 0.5vw;
+}
+
+body footer p a {
+  display: block;
+  color: white;
+  text-decoration: underline;
+  text-align: center;
+}
+footer img {
+  max-height: 3.5vw;
+  padding-bottom: 3vw;
+}
